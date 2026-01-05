@@ -1,6 +1,3 @@
----
-title: Jenny's Page
----
 
 # 👩‍💻 Jenny Lim  
 **Aspiring Cloud Security Support / DevOps Engineer**
