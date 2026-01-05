@@ -21,8 +21,8 @@ I enjoy troubleshooting, documenting processes clearly, and improving workflows.
 
 - **GitHub:** https://github.com/jennyylim  
   *(projects, labs, practice)*  
-- **LinkedIn:** *(paste link)*  
-- **Portfolio:** *(this site)*  
+- **LinkedIn:** *https://www.linkedin.com/in/jenny-anastasia-lim/*  
+- **Portfolio:** *https://github.com/jennyylim*  
 
 ---
 
