@@ -4,7 +4,7 @@
 
 📍 Singapore
 🔗 **GitHub:** https://github.com/jennyylim  
-🔗 **LinkedIn:** *[(add your link here)](https://www.linkedin.com/in/jenny-anastasia-lim/)*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/jenny-anastasia-lim/*  
 📧 **Email:** *jenny.analim@gmail.com*  
 
 ---
